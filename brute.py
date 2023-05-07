@@ -1,6 +1,6 @@
 import telnetlib
 import socket
-
+#coded by hphong
 
 USERNAMES = ['admin', 'root', 'user']
 PASSWORDS = ['password', '123456', 'admin', 'root']
