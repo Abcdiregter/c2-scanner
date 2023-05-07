@@ -7,4 +7,4 @@ coded by vilgax
 
 zmap usage : python3 zmap.py port outputfile(vuln.txt)
 
-telnet brute-force usage: python bruter2.py list 
+telnet brute-force usage: python bruter2.py list threads output file
